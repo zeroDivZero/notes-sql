@@ -20,4 +20,6 @@ WHERE
   AND age >= 65
 ```
 
-Other logical operators for `WHERE` clause include `OR` and `NOT`.
+Other logical operators for `WHERE` clause include `OR` and `NOT` (or `<>`).
+
+Some SQL databases require `;` statement terminator at end of SQL query.
